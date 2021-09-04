@@ -8,5 +8,6 @@ things I find awesome and why
 | [post comparing aws azure and gcp stuff](https://twitter.com/simonholdorf/status/1433735428310511645) |  |
 | [taskwarrior](https://github.com/GothenburgBitFactory/taskwarrior) | cli task manager |
 | [deep learning drizzle](https://deep-learning-drizzle.github.io/)
+| [good NSE article](https://www.brodieg.com/2020/05/05/on-nse/) | | 
 
 
