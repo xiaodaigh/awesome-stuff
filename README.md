@@ -10,5 +10,6 @@ things I find awesome and why
 | [deep learning drizzle](https://deep-learning-drizzle.github.io/)
 | [good NSE article](https://www.brodieg.com/2020/05/05/on-nse/) | | 
 | [FLAML](https://github.com/microsoft/FLAML) | Simple ML |
+| ptpython bpython | better python repl (better than ipython) |
 
 
