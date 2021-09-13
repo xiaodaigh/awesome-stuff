@@ -11,5 +11,6 @@ things I find awesome and why
 | [good NSE article](https://www.brodieg.com/2020/05/05/on-nse/) | | 
 | [FLAML](https://github.com/microsoft/FLAML) | Simple ML |
 | ptpython bpython | better python repl (better than ipython) |
+| [kedro](https://towardsdatascience.com/kedro-a-python-framework-for-reproducible-data-science-project-4d44977d4f04) | "A Python Framework for Reproducible Data Science Project" |
 
 
