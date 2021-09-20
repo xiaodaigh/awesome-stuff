@@ -13,4 +13,5 @@ things I find awesome and why
 | ptpython bpython | better python repl (better than ipython) |
 | [kedro](https://towardsdatascience.com/kedro-a-python-framework-for-reproducible-data-science-project-4d44977d4f04) | "A Python Framework for Reproducible Data Science Project" |
 | [Reconciling modern machine-learning practice and the classical bias–variance trade-off](https://www.pnas.org/content/116/32/15849) | | 
+| [river](https://github.com/online-ml/river) | online modelling in python
 
