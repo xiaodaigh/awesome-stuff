@@ -15,4 +15,5 @@ things I find awesome and why
 | [Reconciling modern machine-learning practice and the classical bias–variance trade-off](https://www.pnas.org/content/116/32/15849) | | 
 | [river](https://github.com/online-ml/river) | online modelling in python
 | [ggplot wizardry](https://twitter.com/CedScherer/status/1441126976870252548) | collection of tweets on ggplot 
+| [explained.ai](https://explained.ai/) | deep neural network concepts explained
 
