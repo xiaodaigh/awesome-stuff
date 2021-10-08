@@ -16,4 +16,5 @@ things I find awesome and why
 | [river](https://github.com/online-ml/river) | online modelling in python
 | [ggplot wizardry](https://twitter.com/CedScherer/status/1441126976870252548) | collection of tweets on ggplot 
 | [explained.ai](https://explained.ai/) | deep neural network concepts explained
+| [dangers of ML in resource constraints or large orgs](https://www.linkedin.com/posts/knut-j%C3%A4gersberg_datascience-machinelearning-artificialintelligence-activity-6852219057052127232-Da3Z) see also [the original paper](https://arxiv.org/abs/2110.02932) | Hopkins, A., & Booth, S. (2021). Machine Learning Practices Outside Big Tech: How Resource Constraints Challenge Responsible Development.|
 
