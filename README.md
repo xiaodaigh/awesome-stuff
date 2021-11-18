@@ -3,6 +3,7 @@ things I find awesome and why
 
 | title | comment |
 | -- | -- |
+| [talk](https://www.ribbonfarm.com/2009/11/11/the-gervais-principle-ii-posturetalk-powertalk-babytalk-and-gametalk/) | Note to self: read it once a year to remind yourself 
 | [gentel gnn](https://distill.pub/2021/gnn-intro/) | |
 | [bolt](https://github.com/dblalock/bolt) | operations on compressed vectors! |
 | [post comparing aws azure and gcp stuff](https://twitter.com/simonholdorf/status/1433735428310511645) |  |
