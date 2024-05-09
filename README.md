@@ -3,6 +3,7 @@ things I find awesome and why
 
 | title | comment |
 | -- | -- |
+| cool vs code extensions | TabOut, Indent-Rainbox, Rainbow CSV, |
 | [explain shell](https://explainshell.com/) |
 | [game programming and math courses](https://pikuma.com/) |
 | [hpc programming book](https://en.algorithmica.org/hpc/algorithms/prefix/) | 
