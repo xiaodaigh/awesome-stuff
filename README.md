@@ -3,6 +3,7 @@ things I find awesome and why
 
 | title | comment |
 | -- | -- |
+| [linux expansion explained](https://www.r-bloggers.com/2024/10/understanding-expansion-in-the-linux-shell/) | |
 | cool vs code extensions | TabOut, Indent-Rainbox, Rainbow CSV, |
 | [explain shell](https://explainshell.com/) |
 | [game programming and math courses](https://pikuma.com/) |
